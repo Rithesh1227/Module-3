@@ -14,7 +14,17 @@ To write a Python program to check whether the string `"google"` is a **palindro
 ## 🧾 Program
 
 Add code here
+```
+
+a = "google"
+if a==a[::-1]:
+   print("Palindrome")
+else:
+   print("Not a Palindrome")
+
+```
 
 ## Output
+<img width="910" height="190" alt="image" src="https://github.com/user-attachments/assets/37e1eaaf-380d-4bb8-aecf-b613e02629fc" />
 
 ## Result
